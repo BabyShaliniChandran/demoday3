@@ -1,3 +1,3 @@
-print("hello world")
+print("hello team")
 print("i am sathish babu")
-print("hello to my team")
+print("hello to world")
